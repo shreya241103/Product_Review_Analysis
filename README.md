@@ -116,4 +116,5 @@ This project efficiently utilizes natural language processing to extract custome
 - SHREYA KASHYAP
 - R S MOUMITHA
 
-## Ack
+## Acknowledgements
+This project uses techniques from natural language processing and topic modeling. Special thanks to the NLTK, Gensim, and scikit-learn libraries for providing tools for text processing and topic modeling.
